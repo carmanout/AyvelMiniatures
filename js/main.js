@@ -67,6 +67,20 @@ const miniaturesData = [
         category: "wargames",
         categoryName: "Star Wars Legion",
         image: "images/miniatures/wargame-2.jpg"
+    },
+    {
+        id: 9,
+        title: "Mandaloriano",
+        category: "bustos",
+        categoryName: "Star Wars Legion",
+        image: "images/miniatures/warhammer-1.jpg"
+    },
+    {
+        id: 10,
+        title: "Mandaloriano",
+        category: "modelado",
+        categoryName: "Star Wars Legion",
+        image: "images/miniatures/warhammer-2.jpg"
     }
 ];
 
