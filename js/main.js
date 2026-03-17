@@ -12,7 +12,7 @@ const miniaturesData = [
         title: "Nombre",
         category: "warhammer",
         categoryName: "Warhammer 40K",
-        image: "images/miniatures/grandes-1.jpg"
+        image: "images/miniatures/Grandes-1.jpg"
     },
 
     {
@@ -20,7 +20,7 @@ const miniaturesData = [
         title: "Nombre",
         category: "warhammer",
         categoryName: "Warhammer 40K",
-        image: "images/miniatures/grandes-2.jpg"
+        image: "images/miniatures/Grandes-2.jpg"
     },
 
     {
@@ -28,7 +28,7 @@ const miniaturesData = [
         title: "Adepta Sororitas",
         category: "warhammer",
         categoryName: "Warhammer 40K",
-        image: "images/miniatures/grandes-3.jpg"
+        image: "images/miniatures/Grandes-3.jpg"
     },
 
     {
